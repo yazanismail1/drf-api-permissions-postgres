@@ -1,1 +1,36 @@
 # drf-api-permissions-postgres
+
+## Project: 
+
+Countries REST API
+
+## Author(s): 
+
+Yazan Alfarra
+
+## Project Description
+
+This is a REST API where you can send GET, POST, PUT, PATCH and DELETE HTTP requests, to get, update or delete books and authors details. It needs authentication. 
+
+## Login to the admin pannel
+
+- **Username:** admin
+- **Password:** 0000
+
+## Installing the requirements
+
+```
+pip install -r requirements.txt
+```
+
+## Running the server
+
+```
+python manage.py runserver
+```
+ 
+## Running the tests
+
+```
+python manage.py test
+```
