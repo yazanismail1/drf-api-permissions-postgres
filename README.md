@@ -14,8 +14,11 @@ This is a REST API where you can send GET, POST, PUT, PATCH and DELETE HTTP requ
 
 ## Login to the admin pannel
 
-- **Username:** admin
+- **Super User:** admin
 - **Password:** 0000
+
+- **Normal User:** normal
+- **Password:** GUDW3/_+5nCi.2w
 
 ## Installing the requirements
 
