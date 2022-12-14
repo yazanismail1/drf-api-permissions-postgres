@@ -20,8 +20,12 @@ This is a REST API where you can send GET, POST, PUT, PATCH and DELETE HTTP requ
 - **Normal User:** normal
 - **Password:** GUDW3/_+5nCi.2w
 
-- **User made in Docker:** root
+- **Docker Super User:** root
 - **Password:** 0000
+
+- **Docker Normal User:** normal
+
+- **Password:** bPcU/W8wbru2788
 
 ## Installing the requirements
 
